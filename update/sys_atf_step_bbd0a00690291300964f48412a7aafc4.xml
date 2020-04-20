@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_atf_step">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
+        <copied_from/>
         <description>Assert a JSON response payload is valid</description>
         <display_name>Assert Response JSON Payload Is Valid</display_name>
         <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
         <order>4</order>
+        <snapshot/>
         <step_config display_value="Assert Response JSON Payload Is Valid">f100f7079f132200ef4afa7dc67fcf42</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,6 +25,7 @@
         <table/>
         <test display_value="CC18: Retrieve poll results V2">c8ce58c290291300964f48412a7aaffb</test>
         <timeout/>
+        <warning_message/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=bbd0a00690291300964f48412a7aafc4"/>
 </record_update>

@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_atf_step">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
+        <copied_from/>
         <description>Insert a record into 'x_snc_polls_poll' with the following values: 
 Name = Programming Language Poll from Test</description>
         <display_name>Record Insert</display_name>
         <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
         <order>1</order>
+        <snapshot/>
         <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -23,6 +26,7 @@ Name = Programming Language Poll from Test</description>
         <table>x_snc_polls_poll</table>
         <test display_value="CC18: Vote in poll">a2a5832190251300964f48412a7aaf9d</test>
         <timeout/>
+        <warning_message/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=bd2a2b2990251300964f48412a7aafab"/>
     <sys_variable_value action="INSERT_OR_UPDATE">

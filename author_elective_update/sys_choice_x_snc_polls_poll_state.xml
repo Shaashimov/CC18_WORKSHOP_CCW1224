@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="state" table="x_snc_polls_poll" version="3">
+        <sys_choice_set action="DELETE">
+            <element>state</element>
+            <name>x_snc_polls_poll</name>
+            <sys_class_name/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on/>
+            <sys_id>dc070c65dbd81c100ef1cc303996196e</sys_id>
+            <sys_mod_count/>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
+            <sys_update_name>sys_choice_x_snc_polls_poll_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 12:22:55</sys_updated_on>
+        </sys_choice_set>
+        <sys_update_version action="INSERT_OR_UPDATE">
+            <action>DELETE</action>
+            <application display_value="Polls">cd1f2766133e1200ed373d62f244b082</application>
+            <file_path/>
+            <instance_id>d0009c23dbb83b408aea21c4059619c1</instance_id>
+            <instance_name>dev82128</instance_name>
+            <name>sys_choice_x_snc_polls_poll_state</name>
+            <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="state" table="x_snc_polls_poll" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;state&lt;/element&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sys_class_name/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name&gt;state&lt;/sys_name&gt;&lt;sys_package display_value="Polls" source="x_snc_polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_snc_polls_poll_state&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:46:24&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;sys_update_version action="INSERT_OR_UPDATE"&gt;&lt;action&gt;INSERT_OR_UPDATE&lt;/action&gt;&lt;application display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/application&gt;&lt;file_path/&gt;&lt;instance_id&gt;d0009c23dbb83b408aea21c4059619c1&lt;/instance_id&gt;&lt;instance_name&gt;dev82128&lt;/instance_name&gt;&lt;name&gt;sys_choice_x_snc_polls_poll_state&lt;/name&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_polls_poll" version="3"&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;state&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Active&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sequence/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:11&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a3750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:11&lt;/sys_updated_on&gt;&lt;value&gt;active&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;state&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Complete&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sequence/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:11&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e3750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:11&lt;/sys_updated_on&gt;&lt;value&gt;complete&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice_set action="INSERT_OR_UPDATE"&gt;&lt;element&gt;state&lt;/element&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:11&lt;/sys_created_on&gt;&lt;sys_id&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;state&lt;/sys_name&gt;&lt;sys_package display_value="Polls" source="x_snc_polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_snc_polls_poll_state&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:11&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;payload_hash&gt;1523665080&lt;/payload_hash&gt;&lt;record_name&gt;Poll.State&lt;/record_name&gt;&lt;reverted_from/&gt;&lt;source&gt;96281d307420330078509adcc48c87e1&lt;/source&gt;&lt;source_table&gt;sys_upgrade_history&lt;/source_table&gt;&lt;state&gt;previous&lt;/state&gt;&lt;sys_created_by/&gt;&lt;sys_created_on&gt;2019-03-30 01:39:19&lt;/sys_created_on&gt;&lt;sys_id&gt;3585cce1dbd81c100ef1cc30399619d9&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_recorded_at&gt;169cc4049580000000&lt;/sys_recorded_at&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;type&gt;Choice list&lt;/type&gt;&lt;update_guid&gt;f185cce10ed81c1099f46670fa40ddd9&lt;/update_guid&gt;&lt;update_guid_history&gt;f185cce10ed81c1099f46670fa40ddd9:1523665080&lt;/update_guid_history&gt;&lt;/sys_update_version&gt;&lt;sys_metadata_delete action="INSERT_OR_UPDATE"&gt;&lt;sys_audit_delete/&gt;&lt;sys_class_name&gt;sys_metadata_delete&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:21&lt;/sys_created_on&gt;&lt;sys_db_object display_value="" name="sys_choice_set"&gt;sys_choice_set&lt;/sys_db_object&gt;&lt;sys_id&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_metadata&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_metadata&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;state&lt;/sys_name&gt;&lt;sys_package display_value="Polls" source="x_snc_polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_package&gt;&lt;sys_parent/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_scope&gt;&lt;sys_scope_delete display_value=""&gt;b5989d128482468a9c66fffcd24f59c4&lt;/sys_scope_delete&gt;&lt;sys_update_name&gt;sys_choice_x_snc_polls_poll_state&lt;/sys_update_name&gt;&lt;sys_update_version display_value="sys_choice_x_snc_polls_poll_state"&gt;3585cce1dbd81c100ef1cc30399619d9&lt;/sys_update_version&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:21&lt;/sys_updated_on&gt;&lt;/sys_metadata_delete&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;</payload>
+            <payload_hash>96919059</payload_hash>
+            <record_name>x_snc_polls_poll.state</record_name>
+            <reverted_from/>
+            <source>ec868ce5db941c100ef1cc30399619ce</source>
+            <source_table>sys_update_set</source_table>
+            <state>previous</state>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 09:46:24</sys_created_on>
+            <sys_id>eee6c065dbd81c100ef1cc3039961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_recorded_at>17196fb4f520000001</sys_recorded_at>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 09:46:24</sys_updated_on>
+            <type>Choice list</type>
+            <update_guid>2ae6c0655ed81c10244c79b8e903fd67</update_guid>
+            <update_guid_history>2ae6c0655ed81c10244c79b8e903fd67:96919059,e2e6c06503d81c10d9fe1d2d02958764:-913158952,f185cce1d0d81c10873dd880e65f0cdf:0,f185cce10ed81c1099f46670fa40ddd9:1523665080</update_guid_history>
+        </sys_update_version>
+        <sys_metadata_delete action="INSERT_OR_UPDATE">
+            <sys_audit_delete/>
+            <sys_class_name>sys_metadata_delete</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 09:46:56</sys_created_on>
+            <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+            <sys_id>dc070c65dbd81c100ef1cc303996196e</sys_id>
+            <sys_metadata>dc070c65dbd81c100ef1cc303996196e</sys_metadata>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
+            <sys_parent/>
+            <sys_policy/>
+            <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
+            <sys_scope_delete display_value="">b5989d128482468a9c66fffcd24f59c4</sys_scope_delete>
+            <sys_update_name>sys_choice_x_snc_polls_poll_state</sys_update_name>
+            <sys_update_version display_value="sys_choice_x_snc_polls_poll_state">eee6c065dbd81c100ef1cc3039961967</sys_update_version>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 09:46:56</sys_updated_on>
+        </sys_metadata_delete>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Polls">cd1f2766133e1200ed373d62f244b082</application>
+        <file_path/>
+        <instance_id>d0009c23dbb83b408aea21c4059619c1</instance_id>
+        <instance_name>dev82128</instance_name>
+        <name>sys_choice_x_snc_polls_poll_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="state" table="x_snc_polls_poll" version="3"><sys_choice_set action="DELETE"><element>state</element><name>x_snc_polls_poll</name><sys_class_name/><sys_created_by>admin</sys_created_by><sys_created_on/><sys_id>dc070c65dbd81c100ef1cc303996196e</sys_id><sys_mod_count/><sys_name>state</sys_name><sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package><sys_policy/><sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope><sys_update_name>sys_choice_x_snc_polls_poll_state</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-20 12:22:55</sys_updated_on></sys_choice_set><sys_update_version action="INSERT_OR_UPDATE"><action>DELETE</action><application display_value="Polls">cd1f2766133e1200ed373d62f244b082</application><file_path/><instance_id>d0009c23dbb83b408aea21c4059619c1</instance_id><instance_name>dev82128</instance_name><name>sys_choice_x_snc_polls_poll_state</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="state" table="x_snc_polls_poll" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;state&lt;/element&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sys_class_name/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name&gt;state&lt;/sys_name&gt;&lt;sys_package display_value="Polls" source="x_snc_polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_snc_polls_poll_state&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:46:24&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;sys_update_version action="INSERT_OR_UPDATE"&gt;&lt;action&gt;INSERT_OR_UPDATE&lt;/action&gt;&lt;application display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/application&gt;&lt;file_path/&gt;&lt;instance_id&gt;d0009c23dbb83b408aea21c4059619c1&lt;/instance_id&gt;&lt;instance_name&gt;dev82128&lt;/instance_name&gt;&lt;name&gt;sys_choice_x_snc_polls_poll_state&lt;/name&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_polls_poll" version="3"&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;state&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Active&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sequence/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:11&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a3750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:11&lt;/sys_updated_on&gt;&lt;value&gt;active&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;state&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Complete&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sequence/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:11&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e3750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:11&lt;/sys_updated_on&gt;&lt;value&gt;complete&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice_set action="INSERT_OR_UPDATE"&gt;&lt;element&gt;state&lt;/element&gt;&lt;name&gt;x_snc_polls_poll&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:11&lt;/sys_created_on&gt;&lt;sys_id&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;state&lt;/sys_name&gt;&lt;sys_package display_value="Polls" source="x_snc_polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_snc_polls_poll_state&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:11&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;payload_hash&gt;1523665080&lt;/payload_hash&gt;&lt;record_name&gt;Poll.State&lt;/record_name&gt;&lt;reverted_from/&gt;&lt;source&gt;96281d307420330078509adcc48c87e1&lt;/source&gt;&lt;source_table&gt;sys_upgrade_history&lt;/source_table&gt;&lt;state&gt;previous&lt;/state&gt;&lt;sys_created_by/&gt;&lt;sys_created_on&gt;2019-03-30 01:39:19&lt;/sys_created_on&gt;&lt;sys_id&gt;3585cce1dbd81c100ef1cc30399619d9&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_recorded_at&gt;169cc4049580000000&lt;/sys_recorded_at&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;type&gt;Choice list&lt;/type&gt;&lt;update_guid&gt;f185cce10ed81c1099f46670fa40ddd9&lt;/update_guid&gt;&lt;update_guid_history&gt;f185cce10ed81c1099f46670fa40ddd9:1523665080&lt;/update_guid_history&gt;&lt;/sys_update_version&gt;&lt;sys_metadata_delete action="INSERT_OR_UPDATE"&gt;&lt;sys_audit_delete/&gt;&lt;sys_class_name&gt;sys_metadata_delete&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-20 09:40:21&lt;/sys_created_on&gt;&lt;sys_db_object display_value="" name="sys_choice_set"&gt;sys_choice_set&lt;/sys_db_object&gt;&lt;sys_id&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_id&gt;&lt;sys_metadata&gt;e7750ce1dbd81c100ef1cc303996199e&lt;/sys_metadata&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;state&lt;/sys_name&gt;&lt;sys_package display_value="Polls" source="x_snc_polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_package&gt;&lt;sys_parent/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Polls"&gt;cd1f2766133e1200ed373d62f244b082&lt;/sys_scope&gt;&lt;sys_scope_delete display_value=""&gt;b5989d128482468a9c66fffcd24f59c4&lt;/sys_scope_delete&gt;&lt;sys_update_name&gt;sys_choice_x_snc_polls_poll_state&lt;/sys_update_name&gt;&lt;sys_update_version display_value="sys_choice_x_snc_polls_poll_state"&gt;3585cce1dbd81c100ef1cc30399619d9&lt;/sys_update_version&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-20 09:40:21&lt;/sys_updated_on&gt;&lt;/sys_metadata_delete&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;</payload><payload_hash>96919059</payload_hash><record_name>x_snc_polls_poll.state</record_name><reverted_from/><source>ec868ce5db941c100ef1cc30399619ce</source><source_table>sys_update_set</source_table><state>previous</state><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-20 09:46:24</sys_created_on><sys_id>eee6c065dbd81c100ef1cc3039961967</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>17196fb4f520000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-20 09:46:24</sys_updated_on><type>Choice list</type><update_guid>2ae6c0655ed81c10244c79b8e903fd67</update_guid><update_guid_history>2ae6c0655ed81c10244c79b8e903fd67:96919059,e2e6c06503d81c10d9fe1d2d02958764:-913158952,f185cce1d0d81c10873dd880e65f0cdf:0,f185cce10ed81c1099f46670fa40ddd9:1523665080</update_guid_history></sys_update_version><sys_metadata_delete action="INSERT_OR_UPDATE"><sys_audit_delete/><sys_class_name>sys_metadata_delete</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-20 09:46:56</sys_created_on><sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object><sys_id>dc070c65dbd81c100ef1cc303996196e</sys_id><sys_metadata>dc070c65dbd81c100ef1cc303996196e</sys_metadata><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package><sys_parent/><sys_policy/><sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope><sys_scope_delete display_value="">b5989d128482468a9c66fffcd24f59c4</sys_scope_delete><sys_update_name>sys_choice_x_snc_polls_poll_state</sys_update_name><sys_update_version display_value="sys_choice_x_snc_polls_poll_state">eee6c065dbd81c100ef1cc3039961967</sys_update_version><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-20 09:46:56</sys_updated_on></sys_metadata_delete></sys_choice></record_update>]]></payload>
+        <payload_hash>-521005452</payload_hash>
+        <record_name>x_snc_polls_poll.state</record_name>
+        <reverted_from/>
+        <source>65174c65dbd81c100ef1cc303996191a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 12:22:55</sys_created_on>
+        <sys_id>dbbae8a9db1c1c100ef1cc3039961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171978a99d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 12:22:55</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>57bae8a98b1c1c10037d669ea3c43f20</update_guid>
+        <update_guid_history>57bae8a98b1c1c10037d669ea3c43f20:-521005452,13bae8a91a1c1c10b7c2aa6c0556961d:-913158952,9e0700a5d4d81c102d3b7c9109d16507:0,2ae6c0655ed81c10244c79b8e903fd67:96919059,e2e6c06503d81c10d9fe1d2d02958764:-913158952,f185cce1d0d81c10873dd880e65f0cdf:0,f185cce10ed81c1099f46670fa40ddd9:1523665080</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 12:23:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>65da64e9db1c1c100ef1cc3039961962</sys_id>
+        <sys_metadata>65da64e9db1c1c100ef1cc3039961962</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
+        <sys_scope_delete display_value="">b5989d128482468a9c66fffcd24f59c4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_snc_polls_poll_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_snc_polls_poll_state">dbbae8a9db1c1c100ef1cc3039961920</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 12:23:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
